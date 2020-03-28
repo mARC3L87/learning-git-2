@@ -47,4 +47,13 @@ body {
  	font-size: 20px;
  	line-height: 1.5;
  }
+ .song {
+ 	margin: auto;
+ 	width: 600px;
+ 	height: 800px;
+ 	border: 2px solid;
+ 	border-radius: 20px;
+ 	background: #74b9ff;
+ 	margin-top: 50px;
+ }
 
